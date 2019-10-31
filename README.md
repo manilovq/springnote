@@ -1,0 +1,3 @@
+# spirngnote
+ - spring boot  
+ - postgresql
